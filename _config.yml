@@ -10,8 +10,8 @@ title: Norwich Hackspace Coding Club - Minecraft Site
 email: cjheath@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the Norwich Hackspace Coding Club. This site is to give you instructions on how to setup your computer before sessions as well as exercises you can complete during and outside of sessions.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/minecraft-setup" # the subpath of your site, e.g. /blog
+url: "http://norwich-hackspace-codingclub.github.io/minecraft-setup/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
