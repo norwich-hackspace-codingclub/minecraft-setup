@@ -40,13 +40,13 @@ All should be easy to setup, just download the installer for your platform and f
 
 
 ### 4, Install Minecraft Forge
-To install Minecraft Forge download [here](/files/forge-1.8.9-11.15.1.1722-installer-win) or goto the website [here](http://files.minecraftforge.net/). We are downloading the files for 1.8 version of Minecraft. This is not the latest version but its the one that works with our python code.
+To install Minecraft Forge download [here](/minecraft-setup/files/forge-1.8.9-11.15.1.1722-installer-win) or goto the website [here](http://files.minecraftforge.net/). We are downloading the files for 1.8 version of Minecraft. This is not the latest version but its the one that works with our python code.
 
 The installer should appear, select "install client". Once it has finished, run minecraft and where the profile box appears you should now be able to select "forge" as an option.
 
 
 ### 5, Download demo scripts and the Mod
-Now we need to download and install the Mod that we will use and the demo scripts from [here](/files/python2-scripts.zip) and the Mod [here](/files/RaspberryJamMod.jar) or goto the original website [here](https://github.com/arpruss/raspberryjammod/releases). We want to download the **"python2-scripts.zip"** and the **"RaspberryJam-Mod-0.08.jar"**, the links to download can be found under the title **"0.52"** the latest version of the Mod.
+Now we need to download and install the Mod that we will use and the demo scripts from [here](/minecraft-setup/files/python2-scripts.zip) and the Mod [here](/minecraft-setup/files/RaspberryJamMod.jar) or goto the original website [here](https://github.com/arpruss/raspberryjammod/releases). We want to download the **"python2-scripts.zip"** and the **"RaspberryJam-Mod-0.08.jar"**, the links to download can be found under the title **"0.52"** the latest version of the Mod.
 
 We need to add a mods folder, do that by using the start menu and clicking run. Type the following in the box:
 
