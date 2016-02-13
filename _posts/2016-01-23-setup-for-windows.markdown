@@ -40,7 +40,7 @@ All should be easy to setup, just download the installer for your platform and f
 
 
 ### 4, Install Minecraft Forge
-To install Minecraft Forge download [here](/minecraft-setup/files/forge-1.8.9-11.15.1.1722-installer-win) or goto the website [here](http://files.minecraftforge.net/). We are downloading the files for 1.8 version of Minecraft. This is not the latest version but its the one that works with our python code.
+To install Minecraft Forge download [here](/minecraft-setup/files/forge-1.8.9-11.15.1.1722-installer-win.exe) or goto the website [here](http://files.minecraftforge.net/). We are downloading the files for 1.8 version of Minecraft. This is not the latest version but its the one that works with our python code.
 
 The installer should appear, select "install client". Once it has finished, run minecraft and where the profile box appears you should now be able to select "forge" as an option.
 
